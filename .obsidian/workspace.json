@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "방지원.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-22.md",
+                "file": "방지원.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-22.md",
+                "file": "방지원.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-22.md",
+                "file": "방지원.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-22.md"
+                "file": "방지원.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "9539147554caf3f5",
   "lastOpenFiles": [
-    "Untitled.md",
     "2024-04-22.md",
+    "방지원.md",
     "무제 폴더"
   ]
 }
