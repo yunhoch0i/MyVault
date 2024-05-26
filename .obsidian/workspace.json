@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "244c9b12cc81b916",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "여행 계획.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-22.md",
+                "file": "여행 계획.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-22.md",
+                "file": "여행 계획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-22.md"
+                "file": "여행 계획.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9539147554caf3f5",
+  "active": "244c9b12cc81b916",
   "lastOpenFiles": [
-    "방지원.md",
     "2024-04-22.md",
+    "여행 계획.md",
+    "방지원.md",
     "무제 폴더"
   ]
 }
