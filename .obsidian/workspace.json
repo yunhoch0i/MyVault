@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "졸업자 특강.md",
+                "file": "여행.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "졸업자 특강.md",
+                "file": "여행.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "졸업자 특강.md",
+                "file": "여행.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "졸업자 특강.md"
+                "file": "여행.md"
               }
             }
           }
@@ -161,10 +161,10 @@
   },
   "active": "36168f9e3172b067",
   "lastOpenFiles": [
+    "2024-04-22.md",
     "여행 계획.md",
     "졸업자 특강.md",
     "여행.md",
-    "2024-04-22.md",
     "방지원.md",
     "무제 폴더"
   ]
